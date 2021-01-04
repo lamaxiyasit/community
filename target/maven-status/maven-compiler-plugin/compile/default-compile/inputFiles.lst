@@ -1,0 +1,16 @@
+D:\community\src\main\java\com\nowcoder\community\entity\Page.java
+D:\community\src\main\java\com\nowcoder\community\service\DiscussPostService.java
+D:\community\src\main\java\com\nowcoder\community\CommunityApplication.java
+D:\community\src\main\java\com\nowcoder\community\util\MailClient.java
+D:\community\src\main\java\com\nowcoder\community\controller\HomeController.java
+D:\community\src\main\java\com\nowcoder\community\dao\DiscussPostMapper.java
+D:\community\src\main\java\com\nowcoder\community\service\AlphaService.java
+D:\community\src\main\java\com\nowcoder\community\entity\DiscussPost.java
+D:\community\src\main\java\com\nowcoder\community\dao\AlphaDaoHibernateImpl.java
+D:\community\src\main\java\com\nowcoder\community\dao\UserMapper.java
+D:\community\src\main\java\com\nowcoder\community\service\UserService.java
+D:\community\src\main\java\com\nowcoder\community\controller\AlphaController.java
+D:\community\src\main\java\com\nowcoder\community\dao\AlphaDao.java
+D:\community\src\main\java\com\nowcoder\community\dao\AlphaDaoMybatis.java
+D:\community\src\main\java\com\nowcoder\community\config\AlphaConfig.java
+D:\community\src\main\java\com\nowcoder\community\entity\User.java
